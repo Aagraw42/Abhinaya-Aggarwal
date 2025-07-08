@@ -1,5 +1,5 @@
-# Abhinaya-Aggarwal
-# 👋 Hi, I'm Aagraw42!
+# Aagraw42
+# 👋 Hi, I'm Abhinaya-Aggarwal!
 
 ## 🧑‍💻 Profession
 **Workforce Management (WFM) Data Analytics & Capacity Planner**
